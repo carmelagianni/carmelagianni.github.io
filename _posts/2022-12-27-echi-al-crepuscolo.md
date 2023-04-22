@@ -3,7 +3,7 @@ title: 'ECHI AL CREPUSCOLO'
 date: '2022-12-27T13:59:49+01:00'
 author: carmela
 layout: post
-permalink: /2022/12/27/echi-al-crepuscolo
+permalink: /2022/12/27/echi-al-crepuscolo/
 categories:
     - Poesie
 ---
