@@ -1,6 +1,6 @@
 ---
 title: 'Aspettando la luna'
-date: '2019-02-04T19:22:00+01:00'
+date: '2019-02-04'
 author: carmela
 layout: post
 permalink: /2019/02/04/aspettando-la-luna/
