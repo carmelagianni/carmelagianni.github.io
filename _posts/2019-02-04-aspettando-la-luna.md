@@ -6,7 +6,7 @@ layout: post
 permalink: /2019/02/04/aspettando-la-luna/
 ---
 
-![](/assets/img/2019/12/luna-01-scaled.jpg)
+![](/assets/img/2019/12/luna-01.jpg)
 
 Scompare il sole  
 oltre la frontiera  

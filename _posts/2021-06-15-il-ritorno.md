@@ -6,7 +6,6 @@ layout: post
 permalink: /2021/06/15/il-ritorno/
 ---
 
-![](/assets/img/2021/06/images-1.jpg)
 
 L’angelo di Dio mi osserva  
 ma non è ancora il tempo  

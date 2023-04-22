@@ -6,7 +6,7 @@ layout: post
 permalink: /2021/05/10/amara-inquietudin/
 ---
 
-![](/assets/img/2021/05/cielo-nuvoloso-e-un-aquilone-72143985.jpg)
+![](/assets/img/2021/kite.jpg)
 
 Col sapore del miele  
 in spazi di primavera  

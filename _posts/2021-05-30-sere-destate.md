@@ -6,8 +6,6 @@ layout: post
 permalink: /2021/05/30/sere-destate/
 ---
 
-![](/assets/img/2021/05/10306313_10202219587834563_5134841799135918044_n.jpg)
-
 Sere d’estate sedate  
 nidano sulla distesa del mare selciata di stelle  
 trema il respiro nella rincorsa  
