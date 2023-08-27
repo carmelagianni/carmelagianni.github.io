@@ -3,7 +3,6 @@ title: Attingere alla radice della sorgente
 date: '2023-08-27'
 author: carmela
 layout: post
-permalink: /attingere-alla-radice-della-sorgente
 categories:
     - Poesie
 ---
