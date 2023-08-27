@@ -51,7 +51,7 @@ Al far della notte
 
 una singola nota
 
-lacerata il silenzio
+lacera il silenzio
 
 il mio respiro 
 
